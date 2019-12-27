@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 27 10:18:50 2019
-
-@author: smedan
-"""
 import operator
 
 #dictionary with the ranks for each country
